@@ -1,0 +1,19 @@
+s### Python template
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+lib/
+.cache
+
+# Pyenv file
+.python-version
+
+# Test Data
+*.xlsx
+*.csv
